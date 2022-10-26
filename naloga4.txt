@@ -1,5 +1,17 @@
+commit e183434ea516b8d9db25b7ba5a33593e32bcd95c
+Author: marlum732 <marko.lumbar@gmail.com>
+Date:   Wed Oct 26 19:33:49 2022 +0200
+
+    added about.html
+
+commit 18a9b739b50d6f8b4d305080045781ffd58d64b7
+Author: Marko <marko.lumbar@gmail.com>
+Date:   Tue Oct 18 14:52:48 2022 +0000
+
+    Added naloga4.txt
+
 commit 68f80f5aae681c6f4b2950c8f3715acf022ea78b
 Author: Marko <marko.lumbar@gmail.com>
 Date:   Tue Oct 18 14:48:27 2022 +0000
 
-    
+    Added index.html
