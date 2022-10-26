@@ -1,3 +1,17 @@
+commit 2cc19bf35bb2a10bd02af6d903d9ccc966a5d7ad
+Author: marlum732 <marko.lumbar@gmail.com>
+Date:   Wed Oct 26 19:52:06 2022 +0200
+
+    Revert "Added index.html"
+    
+    This reverts commit 68f80f5aae681c6f4b2950c8f3715acf022ea78b.
+
+commit a86c30ceb2c354a48af5be1dcb25930fb07cb878
+Author: marlum732 <marko.lumbar@gmail.com>
+Date:   Wed Oct 26 19:40:09 2022 +0200
+
+    Izpis zgodovine
+
 commit e183434ea516b8d9db25b7ba5a33593e32bcd95c
 Author: marlum732 <marko.lumbar@gmail.com>
 Date:   Wed Oct 26 19:33:49 2022 +0200
