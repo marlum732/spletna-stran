@@ -1,0 +1,16 @@
+*   3033715 (origin/master, origin/HEAD, master) Merge branch 'hotfix'
+|\  
+| * 568eaf6 (hotfix) Spremembe v hotfixu
+* | 0e74dca Revert "Spremembe v hotfixu"
+* | 3780a33 Spremembe v hotfixu
+|/  
+| * 3262962 (HEAD -> featureA) Dodana funkcionalnost
+|/  
+* e4860e1 about page
+* f649d68 index
+* 04d8509 Izpis zgodovine
+* 2cc19bf Revert "Added index.html"
+* a86c30c Izpis zgodovine
+* e183434 added about.html
+* 18a9b73 Added naloga4.txt
+* 68f80f5 Added index.html
